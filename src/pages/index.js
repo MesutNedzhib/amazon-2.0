@@ -9,6 +9,8 @@ export default function Home() {
       </Head>
 
       <Header />
+
+      <Footer />
     </div>
   );
 }
