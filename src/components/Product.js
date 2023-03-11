@@ -53,7 +53,7 @@ function Product({ product }) {
         </div>
       )}
 
-      <button className="mt-auto button">Add to Basket</button>
+      <button className="mt-auto button">Add to Baskett</button>
     </div>
   );
 }
